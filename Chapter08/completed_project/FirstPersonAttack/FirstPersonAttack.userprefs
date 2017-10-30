@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/AIEnemy.cs">
+    <Files>
+      <File FileName="Assets/scripts/AIEnemy.cs" Line="134" Column="59" />
+      <File FileName="Assets/scripts/GameManager.cs" Line="5" Column="41" />
+      <File FileName="Assets/scripts/Navigator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/KeyPressEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/UIScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/UIFader.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/UIHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Typer.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/UIBonus.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
