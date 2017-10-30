@@ -1,0 +1,17 @@
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/UnityEngine.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/UnityEditor.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Mono.Cecil.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/alanthorn/Documents/OneDrive/Documents/books/mastering_unity/completed_project/FirstPersonAttack/Temp/bin/Debug/Mono.Cecil.Mdb.dll
